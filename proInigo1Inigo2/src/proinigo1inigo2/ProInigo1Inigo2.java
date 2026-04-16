@@ -5,7 +5,7 @@ public class ProInigo1Inigo2 {
 
     public static void main(String[] args) {
         
-        System.out.println("Texto por el Usuario 1");//cambio final
+        System.out.println("Linea editada por Usuario 1");
         
     }
     
