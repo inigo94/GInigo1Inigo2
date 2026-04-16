@@ -5,7 +5,7 @@ public class ProInigo1Inigo2 {
 
     public static void main(String[] args) {
         
-        System.out.println("Usuario 2");
+        System.out.println("El Usuario 2 sigue mejorando el Tronco principal.");
         
     }
     
