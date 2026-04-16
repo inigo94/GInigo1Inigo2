@@ -5,7 +5,7 @@ public class ProInigo1Inigo2 {
 
     public static void main(String[] args) {
         
-        System.out.println("Texto Usuario 1");
+        System.out.println("Texto por Usuario 1");
         
     }
     
